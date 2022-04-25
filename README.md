@@ -5,7 +5,7 @@ This page is a placeholder until I can figure out how to make a better website. 
 
 I mostly shoot street photography and events with a Fujifilm XE-3 and Pentax K1000. I focus on documenting the Bay Area DIY/punk scene and local protests. Contact me if you need a photographer at your event! You can DM me on Instagram or email me at [castro.ian(at)berkeley.edu](mailto:castro.ian@berkeley.edu).
 
-### selected photos
+## selected photos
 
 ![](./photos/c-soulglo.jpg)
 
@@ -38,6 +38,8 @@ I mostly shoot street photography and events with a Fujifilm XE-3 and Pentax K10
 ![](./photos/p-earthday.jpg)
 
 ![](./photos/p-uawsru.jpg)
+
+![](./photos/p-uawsru2.jpg)
 
 ![](./photos/p-pilcom.jpg)
 
