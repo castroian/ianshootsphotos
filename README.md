@@ -7,4 +7,4 @@ I mostly shoot street and event photography (concerts and protests) with a Fujif
 
 ### Selected Photos
 
-![SoulGLO](DSCF4908.JPEG)
+![test pic](photos/DSCF4908.JPEG)
