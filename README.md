@@ -1,52 +1,98 @@
 # ianshootsphotos: a photography portfolio
 
 ## about my work
-This page is a placeholder until I can figure out how to make a better website. If you're interested in viewing more of my photos or following me, I post my work on Instagram at [@ianshootsphotos](https://instagram.com/ianshootsphotos). I'm learning photography as a hobby; you can learn more about me professionally on this site's main page [here](https://castroian.github.io/).
+Hi! I'm a freelance photojournalist based in the San Francisco Bay Area. I primarily post my work on Instagram at [@ianshootsphotos](https://instagram.com/ianshootsphotos). I currently work on assignment for the [Berkeley Times](http://berkeleyx.org/), a print-only community newspaper for the city of Berkeley. I mostly do photography as a part-time gig and hobby; my primary job is an applied data scientist - you can learn more about me professionally on this site's main page [here](https://castroian.github.io/).
 
-I mostly shoot street photography and events with a Fujifilm XE-3 and Pentax K1000. I focus on documenting the Bay Area DIY/punk scene and local protests. Contact me if you need a photographer at your event! You can DM me on Instagram or email me at [castro.ian(at)berkeley.edu](mailto:castro.ian@berkeley.edu).
+My main equipment includes a Fujifilm XT-4, XE-3, and Pentax K1000. I enjoy documenting the Bay Area DIY/punk scene and local protests. Contact me if you need a photographer! You can DM me on Instagram or email me at [castro.ian(at)berkeley.edu](mailto:castro.ian@berkeley.edu).
 
-## selected photos
+I'm constantly trying to learn and improve my craft! If you want to see my past work, you can find my past portfolios below.
+[spring 2021](https://castroian.github.io/spring22)
 
-![](./photos/c-soulglo.jpg)
+## selected photos [last updated summer 2022]
 
-![](./photos/c-mannequinpussy.jpg)
+# editorial
+![](./photos-su22/ed1-streetball.jpg)
 
-![](./photos/c-knumears.jpg)
+![](./photos-su22/ed2-psona.jpg)
 
-![](./photos/c-gumbysjunk.jpg)
+![](./photos-su22/ed3-psona.jpg)
 
-![](./photos/c-gumbysjunk2.jpg)
+![](./photos-su22/ed4-peoplespark.jpg)
 
-![](./photos/c-aaronspace.jpg)
+![](./photos-su22/ed5-peoplespark.jpg)
 
-![](./photos/c-swellfoop.jpg)
+![](./photos-su22/ed6-peoplesparkrally.jpg)
 
-![](./photos/c-swellfoop2.jpg)
+![](./photos-su22/ed7-aklasanfest.jpg)
 
-![](./photos/c-mostfried.jpg)
+![](./photos-su22/ed8-circusbella.jpg)
 
-![](./photos/o-punks.jpg)
+![](./photos-su22/ed9-dykemarch.jpg)
 
-![](./photos/o-crash.jpg)
+![](./photos-su22/ed10-dobbs.jpg)
 
-![](./photos/o-oakland_street.jpg)
+# event
 
-![](./photos/o-elders.jpg)
+![](./photos-su22/ev1-roots.jpg)
 
-![](./photos/o-friends.jpg)
+![](./photos-su22/ev2-roots.jpg)
 
-![](./photos/p-earthday.jpg)
+![](./photos-su22/ev3-hoodslam.jpg)
 
-![](./photos/p-uawsru.jpg)
+![](./photos-su22/ev4-hoodslam.jpg)
 
-![](./photos/p-uawsru2.jpg)
+![](./photos-su22/ev5-boat.jpg)
 
-![](./photos/p-pilcom.jpg)
+![](./photos-su22/ev6-oaklash.jpg)
 
-![](./photos/p-ukraine1.jpg)
+![](./photos-su22/ev7-rollin.jpg)
 
-![](./photos/p-ukraine2.jpg)
+![](./photos-su22/ev8-rollin.jpg)
 
-![](./photos/p-ukraine3.jpg)
+![](./photos-su22/ev9-oaklash.jpg)
 
-![](./photos/p-womensday.jpg)
+![](./photos-su22/ev10-roots.jpg)
+
+# model
+
+![](./photos-su22/m1-dykes.jpg)
+
+![](./photos-su22/m2-dykes.jpg)
+
+![](./photos-su22/m3-ab.jpg)
+
+![](./photos-su22/m4-grad.jpg)
+
+![](./photos-su22/m5-grad.jpg)
+
+![](./photos-su22/m6-soul.jpg)
+
+![](./photos-su22/m7-fourth.jpg)
+
+![](./photos-su22/m8-grad.jpg)
+
+![](./photos-su22/m9-boat.jpg)
+
+![](./photos-su22/m10-south.jpg)
+
+# concert
+
+![](./photos-su22/mu1-marika.jpg)
+
+![](./photos-su22/m2-maggus.jpg)
+
+![](./photos-su22/m3-aklasan.jpg)
+
+![](./photos-su22/m4-aklasan.jpg)
+
+![](./photos-su22/m5-doublecamp.jpg)
+
+![](./photos-su22/m6-aklasan.jpg)
+
+![](./photos-su22/m7-marika.jpg)
+
+![](./photos-su22/m8-undercurrent.jpg)
+
+![](./photos-su22/m9-eli.jpg)
+
+![](./photos-su22/m10-gumby.jpg)
