@@ -11,6 +11,7 @@ I'm constantly trying to learn and improve my craft! If you want to see my past 
 ## selected photos [last updated summer 2022]
 
 ### editorial
+ 
 ![](./photos-su22/ed1-streetball.jpg)
 
 ![](./photos-su22/ed2-psona.jpg)
@@ -23,19 +24,7 @@ I'm constantly trying to learn and improve my craft! If you want to see my past 
 
 ![](./photos-su22/ed9-dykemarch.jpg)
 
-### event
-
-![](./photos-su22/ev1-roots.jpg)
-
-![](./photos-su22/ev2-roots.jpg)
-
-![](./photos-su22/ev3-hoodslam.jpg)
-
-![](./photos-su22/ev6-oaklash.jpg)
-
-![](./photos-su22/ev7-rollin.jpg)
-
-### model
+### models & fashion
 
 ![](./photos-su22/m1-dykes.jpg)
 
@@ -47,7 +36,19 @@ I'm constantly trying to learn and improve my craft! If you want to see my past 
 
 ![](./photos-su22/m8-grad.jpg)
 
-### concert
+### events
+
+![](./photos-su22/ev1-roots.jpg)
+
+![](./photos-su22/ev2-roots.jpg)
+
+![](./photos-su22/ev3-hoodslam.jpg)
+
+![](./photos-su22/ev6-oaklash.jpg)
+
+![](./photos-su22/ev7-rollin.jpg)
+
+### concerts & music
 
 ![](./photos-su22/mu1-marika.jpg)
 
