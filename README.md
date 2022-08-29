@@ -5,12 +5,12 @@ Hi! I'm a freelance photojournalist based in the San Francisco Bay Area. I prima
 
 My main equipment includes a Fujifilm XT-4, XE-3, and Pentax K1000. I enjoy documenting the Bay Area DIY/punk scene and local protests. Contact me if you need a photographer! You can DM me on Instagram or email me at [castro.ian(at)berkeley.edu](mailto:castro.ian@berkeley.edu).
 
-I'm constantly trying to learn and improve my craft! If you want to see my past work, you can find my past portfolios below.
-[spring 2021](https://castroian.github.io/spring22)
+I'm constantly trying to learn and improve my craft! If you want to see my past work, you can find my old portfolios here:
+[spring 2021](https://castroian.github.io/ianshootsphotos/spring22)
 
-## selected photos [last updated summer 2022]
+# selected photos [last updated summer 2022]
 
-# editorial
+### editorial
 ![](./photos-su22/ed1-streetball.jpg)
 
 ![](./photos-su22/ed2-psona.jpg)
@@ -31,7 +31,7 @@ I'm constantly trying to learn and improve my craft! If you want to see my past 
 
 ![](./photos-su22/ed10-dobbs.jpg)
 
-# event
+### event
 
 ![](./photos-su22/ev1-roots.jpg)
 
@@ -53,7 +53,7 @@ I'm constantly trying to learn and improve my craft! If you want to see my past 
 
 ![](./photos-su22/ev10-roots.jpg)
 
-# model
+### model
 
 ![](./photos-su22/m1-dykes.jpg)
 
@@ -75,24 +75,24 @@ I'm constantly trying to learn and improve my craft! If you want to see my past 
 
 ![](./photos-su22/m10-south.jpg)
 
-# concert
+### concert
 
 ![](./photos-su22/mu1-marika.jpg)
 
-![](./photos-su22/m2-maggus.jpg)
+![](./photos-su22/mu2-maggus.jpg)
 
-![](./photos-su22/m3-aklasan.jpg)
+![](./photos-su22/mu3-aklasan.jpg)
 
-![](./photos-su22/m4-aklasan.jpg)
+![](./photos-su22/mu4-aklasan.jpg)
 
-![](./photos-su22/m5-doublecamp.jpg)
+![](./photos-su22/mu5-doublecamp.jpg)
 
-![](./photos-su22/m6-aklasan.jpg)
+![](./photos-su22/mu6-aklasan.jpg)
 
-![](./photos-su22/m7-marika.jpg)
+![](./photos-su22/mu7-marika.jpg)
 
-![](./photos-su22/m8-undercurrent.jpg)
+![](./photos-su22/mu8-undercurrent.jpg)
 
-![](./photos-su22/m9-eli.jpg)
+![](./photos-su22/mu9-eli.jpg)
 
-![](./photos-su22/m10-gumby.jpg)
+![](./photos-su22/mu10-gumby.jpg)
