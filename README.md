@@ -6,12 +6,12 @@ Hi! I'm a freelance photojournalist based in the San Francisco Bay Area. I post 
 My main equipment includes a Fujifilm XT-4, Fujifilm XE-3, and Pentax K1000. Contact me if you need a photographer! You can DM me on Instagram or email me at [castro.ian(at)berkeley.edu](mailto:castro.ian@berkeley.edu).
 
 I'm constantly trying to learn and improve my craft! If you want to see my past work, you can find my old portfolios here:
-[spring 2021](https://castroian.github.io/ianshootsphotos/spring22)
+[spring 2022](https://castroian.github.io/ianshootsphotos/spring22)
 
 ## selected photos [last updated summer 2022]
 
 ### editorial
- 
+
 ![](./photos-su22/ed1-streetball.jpg)
 
 ![](./photos-su22/ed2-psona.jpg)
