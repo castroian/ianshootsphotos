@@ -18,13 +18,13 @@ I am available for hire (news, concerts, fashion, you name it) and love talking 
 
 ![Speed performs at Cornerstone, Berkeley](./photos-wi24/music-speed.jpg)
 
-![Mobley performs at the Independent, SF](./photos-wi24/music-mobley.jpg)
-
 ![Boryoku performs at Stay Gold Deli, Oakland](./photos-wi24/music-boryoku.jpg)
 
 ![Crowd during Gel at Cornerstone, Berkeley](./photos-wi24/music-gel.jpg)
 
 ![POSY performs at Aklasan Fest, SD](./photos-wi24/music-posy.jpg)
+
+![Mobley performs at the Independent, SF](./photos-wi24/music-mobley.jpg)
 
 
 ### fashion
