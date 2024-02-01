@@ -5,7 +5,7 @@ Hi! My name is Ian and I'm a photographer based in the San Francisco Bay Area. B
 
 Does anyone really own anything in the Bay? If we don't, then what do we do *now* to make such a place *home*?
 
-The main purpose of my work is to document the Bay- particularly its BIPOC punk, art, and activist subcultures- as they are now before this place inevitably changes along with its communities. You can find most of my work on Instagram at [@ianshootsphotos](https://instagram.com/ianshootsphotos).
+The main purpose of my work is to document the Bay- particularly its BIPOC punk, art, and activist subcultures- as they are now before this place inevitably changes along with its communities. You can find most of my work on Instagram at [@ianshootsphotos](https://instagram.com/ianshootsphotos). I also occasionally upload videos to my YouTube at [ianshootsvideos](https://www.youtube.com/@ianshootsvideos).
 
 I also have experience as a photojournalist, with credits in publications including Berkeleyside, Street Spirit, and SF Chronicle. In the past, I've freelanced for the Berkeley Times, Oakland Roots Sports Club, and various community organizations, venues, and artists. That being said, to pay the rent, my day job is in applied data science - you can learn more about me professionally on this site's main page [here](https://castroian.github.io/).
 
@@ -16,47 +16,49 @@ I am available for hire (news, concerts, fashion, you name it) and love talking 
 
 ### music
 
-![Speed performs at Cornerstone, Berkeley](./photos-wi22/music-speed.jpg)
+![Speed performs at Cornerstone, Berkeley](./photos-wi24/music-speed.jpg)
 
-![Mobley performs at the Independent, SF](./photos-wi22/music-mobley.jpg)
+![Mobley performs at the Independent, SF](./photos-wi24/music-mobley.jpg)
 
-![Boryoku performs at Stay Gold Deli, Oakland](./photos-wi22/music-boryoku.jpg)
+![Boryoku performs at Stay Gold Deli, Oakland](./photos-wi24/music-boryoku.jpg)
 
-![Crowd during Gel at Cornerstone, Berkeley](./photos-wi22/music-gel.jpg)
+![Crowd during Gel at Cornerstone, Berkeley](./photos-wi24/music-gel.jpg)
 
-![Cancerchrist performs at 3rd and Army, SF](./photos-wi22/music-cancerchrist.jpg)
+![Cancerchrist performs at 3rd and Army, SF](./photos-wi24/music-cancerchrist.jpg)
 
 
 ### fashion
 
-![Product promo for Jacob Li-Rosenberg's Lucky Dragon](./photos-wi22/fashion-luckydragon.jpg)
+![Product promo for Jacob Li-Rosenberg's Lucky Dragon](./photos-wi24/fashion-luckydragon.jpg)
 
-![Runway for Yosef Gebre's fashion line](./photos-wi22/fashion-yosef.jpg)
+![Runway for Yosef Gebre's fashion line](./photos-wi24/fashion-yosef.jpg)
 
-![Misc. model work](./photos-wi22/fashion-meg.jpg)
+![Misc. model work](./photos-wi24/fashion-meg.jpg)
 
 
 ### news
 
-![UC Berkeley faculty march in support of UAW strikers](./photos-wi22/news-uaw.jpg)
+![UC Berkeley faculty march in support of UAW strikers](./photos-wi24/news-uaw.jpg)
 
-![A protestor faces police at a counter-rally against trans-exclusionary feminists](./photos-wi22/news-terf.jpg)
+![A protestor faces police at a counter-rally against trans-exclusionary feminists](./photos-wi24/news-terf.jpg)
 
-![A protestor marches during APEC in SF](./photos-wi22/news-apec.jpg)
+![A protestor marches during APEC in SF](./photos-wi24/news-apec.jpg)
 
 
 ### events
 
-![Dancers perform at the So You Know party](./photos-wi22/events-soyouknow.jpg)
+![Dancers perform at the So You Know party](./photos-wi24/events-soyouknow.jpg)
 
-![Skaters at the first Unity Fest in SF](./photos-wi22/events-unityfest.jpg)
+![Skaters at the first Unity Fest in SF](./photos-wi24/events-unityfest.jpg)
 
-![Cal football players prepare for a game][./photos-wi22/events-calfootball]
+![Cal football players prepare for a game][./photos-wi24/events-calfootball]
 
-![Logging sports student athletes compete at the Sierra Cascade Logging Conference](./photos-wi22/events-loggingsports.jpg)
+![Logging sports student athletes compete at the Sierra Cascade Logging Conference](./photos-wi24/events-loggingsports.jpg)
 
 
 
 I'm constantly trying to learn and improve my craft. If you want to see my past portfolios (and other favorite photos), you can view them here:
+
 [spring 2022](https://castroian.github.io/ianshootsphotos/spring22)
+
 [summer 2022](https://castroian.github.io/ianshootsphotos/summer22)
