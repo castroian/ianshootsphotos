@@ -51,7 +51,7 @@ I am available for hire (news, concerts, fashion, you name it) and love talking 
 
 ![Skaters at the first Unity Fest in SF](./photos-wi24/events-unityfest.jpg)
 
-![Cal football players prepare for a game][./photos-wi24/events-calfootball]
+![Cal football players prepare for a game](./photos-wi24/events-calfootball)
 
 ![Logging sports student athletes compete at the Sierra Cascade Logging Conference](./photos-wi24/events-loggingsports.jpg)
 
@@ -59,6 +59,8 @@ I am available for hire (news, concerts, fashion, you name it) and love talking 
 
 I'm constantly trying to learn and improve my craft. If you want to see my past portfolios (and other favorite photos), you can view them here:
 
+
 [spring 2022](https://castroian.github.io/ianshootsphotos/spring22)
+
 
 [summer 2022](https://castroian.github.io/ianshootsphotos/summer22)
