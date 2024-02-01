@@ -24,7 +24,7 @@ I am available for hire (news, concerts, fashion, you name it) and love talking 
 
 ![Crowd during Gel at Cornerstone, Berkeley](./photos-wi24/music-gel.jpg)
 
-![Cancerchrist performs at 3rd and Army, SF](./photos-wi24/music-cancerchrist.jpg)
+![POSY performs at Aklasan Fest, SD](./photos-wi24/music-posy.jpg)
 
 
 ### fashion
@@ -42,7 +42,7 @@ I am available for hire (news, concerts, fashion, you name it) and love talking 
 
 ![A protestor faces police at a counter-rally against trans-exclusionary feminists](./photos-wi24/news-terf.jpg)
 
-![A protestor marches during APEC in SF](./photos-wi24/news-apec.jpg)
+![Dancers perform at Lavagem in Berkeley](./photos-wi24/news-lavagem.jpg)
 
 
 ### events
@@ -51,7 +51,7 @@ I am available for hire (news, concerts, fashion, you name it) and love talking 
 
 ![Skaters at the first Unity Fest in SF](./photos-wi24/events-unityfest.jpg)
 
-![Cal football players prepare for a game](./photos-wi24/events-calfootball)
+![Cal football players prepare for a game](./photos-wi24/events-calfootball.jpg)
 
 ![Logging sports student athletes compete at the Sierra Cascade Logging Conference](./photos-wi24/events-loggingsports.jpg)
 
