@@ -3,9 +3,9 @@ Hi! I'm a photographer based in the San Francisco Bay Area. Being born and raise
 
 Does anyone really own anything here? If we don't, then what do we do *now* to make such this place *home*?
 
-The main purpose of my work is to document my home— particularly the BIPOC punk, art, and activist subcultures that I call my community— as it is now before this place inevitably changes. You can find most of my work on Instagram at [@ianshootsphotos](https://instagram.com/ianshootsphotos). I also occasionally upload videos to my YouTube at [ianshootsvideos](https://www.youtube.com/@ianshootsvideos).
+The main purpose of my work is to document my home— particularly the queer & BIPOC punk, art, and activist subcultures that I call my community— as it is now before this place inevitably changes. You can find most of my work on Instagram at [@ianshootsphotos](https://instagram.com/ianshootsphotos). I also occasionally upload videos to my YouTube at [ianshootsvideos](https://www.youtube.com/@ianshootsvideos).
 
-I also have experience as a photojournalist, with credits in publications including Berkeleyside, Street Spirit, and SF Chronicle. In the past, I've freelanced for the Berkeley Times, Oakland Roots Sports Club, and various community organizations, venues, and artists. That being said, to pay the rent, my day job is in applied data science - you can learn more about me professionally on this site's main page [here](https://castroian.github.io/).
+I also have experience as a photojournalist, with credits in publications including Berkeleyside, KQED, Street Spirit, SF Examiner, and SF Chronicle. In the past, I freelanced regularly for the Berkeley Times, Oakland Roots Sports Club, and various community organizations, venues, and artists in Berkeley and Oakland. That being said, to pay the rent, my day job is in applied data science - you can learn more about me professionally on this site's main page [here](https://castroian.github.io/).
 
 I am available for hire (news, concerts, fashion, you name it) and love talking to other artists - DM me on [Instagram](https://instagram.com/ianshootsphotos) or email me at [iancastromedia(at)gmail.com](mailto:iancastromedia@gmail.com). Let's connect!
 
