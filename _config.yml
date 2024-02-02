@@ -2,5 +2,4 @@ remote_theme: pages-themes/tactile@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: ianshootsphotos
-description: Photography by Ian Castro
+title: ianshootsphotos: photography by Ian Castro
