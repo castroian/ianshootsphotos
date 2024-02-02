@@ -1,7 +1,7 @@
 # ianshootsphotos: a photography portfolio
 
 ## about my work
-Hi! My name is Ian and I'm a photographer based in the San Francisco Bay Area. Being born and raised in the Bay, I've seen and experienced how our region's runaway economic inequality creates an environment for working class people defined by struggle under gentrification, displacement, and constant change. Yet, despite the hustle, the Bay remains a place of culture, radical thought, and beauty.
+Hi! My name is Ian Castro and I'm a photographer based in the San Francisco Bay Area. Being born and raised in the Bay, I've seen and experienced how our region's runaway economic inequality creates an environment for working class people defined by struggle under gentrification, displacement, and constant change. Yet, despite the hustle, the Bay remains a place of culture, radical thought, and beauty.
 
 Does anyone really own anything in the Bay? If we don't, then what do we do *now* to make such a place *home*?
 
@@ -57,10 +57,10 @@ I am available for hire (news, concerts, fashion, you name it) and love talking 
 
 
 
-I'm constantly trying to learn and improve my craft. If you want to see my past portfolios (and other favorite photos), you can view them here:
-
-
-[spring 2022](https://castroian.github.io/ianshootsphotos/spring22)
+I'm constantly trying to learn and improve my craft. If you want to see my past portfolios (and some more photos), you can view them here:
 
 
 [summer 2022](https://castroian.github.io/ianshootsphotos/summer22)
+
+
+[spring 2022](https://castroian.github.io/ianshootsphotos/spring22)
